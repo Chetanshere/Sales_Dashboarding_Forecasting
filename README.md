@@ -1,6 +1,6 @@
 # Sales Dashboarding and Forecasting
 
-## Objective
+### Objective
 To create an interactive and insightful dashboard for Royal Store’s sales data, facilitating strategic decision-making and future sales forecasting.
 
 ## Dataset
